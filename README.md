@@ -96,7 +96,7 @@ make -j$(nproc)
 
 ```
 Marine Navigation Shortest Path Solver
-======================================
+=======================================
 
 Loading input from: data/example_input.json
 Loaded 26 points
